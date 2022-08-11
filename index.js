@@ -25,4 +25,3 @@ function bandData() {
   );
 }
 bandData();
-// `Regina Spektor is a American-Russian singer/songwriter and pianist. The musician sings indie-pop and their greatest hit is "Us"`.
